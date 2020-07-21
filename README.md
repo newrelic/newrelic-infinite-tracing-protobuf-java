@@ -33,4 +33,4 @@ We encourage your contributions to improve this project! Keep in mind when you s
 If you have any questions, or to execute our corporate CLA, required if your contribution is on behalf of a company,  please drop us an email at opensource@newrelic.com.
 
 ## License
-module-util is licensed under the [Apache 2.0](http://apache.org/licenses/LICENSE-2.0.txt) License.
+This code is licensed under the [Apache 2.0](http://apache.org/licenses/LICENSE-2.0.txt) License.
