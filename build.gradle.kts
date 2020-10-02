@@ -26,7 +26,7 @@ java {
 }
 
 val protobufVersion = "3.11.4"
-val grpcVersion = "1.28.1"
+val grpcVersion = "1.32.1"
 
 dependencies {
     api("com.google.protobuf:protobuf-java:$protobufVersion")
