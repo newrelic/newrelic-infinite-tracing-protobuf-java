@@ -16,7 +16,7 @@ group = "com.newrelic.agent.java"
 // -Prelease=true will render a non-snapshot version
 // All other values (including unset) will render a snapshot version.
 val release: String? by project
-version = "3.1" + if ("true" == release) "" else "-SNAPSHOT"
+version = "3.2" + if ("true" == release) "" else "-SNAPSHOT"
 
 java {
     sourceCompatibility = JavaVersion.VERSION_1_7
@@ -26,7 +26,7 @@ java {
 }
 
 val protobufVersion = "3.11.4"
-val grpcVersion = "1.28.1"
+val grpcVersion = "1.32.1"
 
 dependencies {
     api("com.google.protobuf:protobuf-java:$protobufVersion")
