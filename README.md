@@ -14,11 +14,11 @@ No additional Java code should be contained in this repo.
 
 ## Installation
 
-[Include a step-by-step procedure on how to get your code installed. Be sure to include any third-party dependencies that need to be installed separately]
+Note: This project is for direct use by the New Relic Java agent and is not intended to be used on its own.
 
 ## Getting Started
 
-[Simple steps to start working with the software similar to a "Hello World"]
+See instructions on [building](#building) the project. 
 
 ## Building
 
@@ -47,7 +47,7 @@ For more information, review [New Relic’s General Data Privacy Notice](https:/
 
 ## Contribute
 
-We encourage your contributions to improve [project name]! Keep in mind that when you submit your pull request, you'll need to sign the CLA via the click-through using CLA-Assistant. You only have to sign the CLA one time per project.
+We encourage your contributions to improve newrelic-infinite-tracing-protobuf-java! Keep in mind that when you submit your pull request, you'll need to sign the CLA via the click-through using CLA-Assistant. You only have to sign the CLA one time per project.
 
 If you have any questions, or to execute our corporate CLA (which is required if your contribution is on behalf of a company), drop us an email at opensource@newrelic.com.
 
@@ -62,4 +62,4 @@ If you would like to contribute to this project, review [these guidelines](./CON
 To [all contributors](https://github.com/newrelic/newrelic-infinite-tracing-protobuf-java/graphs/contributors), we thank you!  Without your contribution, this project would not be what it is today.
 
 ## License
-`newrelic-infinite-tracing-protobuf-java` is licensed under the [Apache 2.0](http://apache.org/licenses/LICENSE-2.0.txt) License.
+newrelic-infinite-tracing-protobuf-java is licensed under the [Apache 2.0](http://apache.org/licenses/LICENSE-2.0.txt) License.
