@@ -1,4 +1,4 @@
-[![Community Plus header](https://github.com/newrelic/opensource-website/raw/main/src/images/categories/Community_Plus.png)](https://opensource.newrelic.com/oss-category/#community-plus)
+<a href="https://opensource.newrelic.com/oss-category/#community-plus"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/newrelic/opensource-website/raw/main/src/images/categories/dark/Community_Plus.png"><source media="(prefers-color-scheme: light)" srcset="https://github.com/newrelic/opensource-website/raw/main/src/images/categories/Community_Plus.png"><img alt="New Relic Open Source community plus project banner." src="https://github.com/newrelic/opensource-website/raw/main/src/images/categories/Community_Plus.png"></picture></a>
 
 # infinite-tracing-protobuf
 
@@ -32,7 +32,7 @@ If the issue has been confirmed as a bug or is a feature request, file a GitHub 
 
 **Support Channels**
 
-* [New Relic Community](https://discuss.newrelic.com/c/support-products-agents/java-agent): The best place to engage in troubleshooting questions
+* [New Relic Community](https://forum.newrelic.com/s/hubtopic/Topic__c/Default?c__categories=%5B%7B%22icon%22%3A%22standard%3Adefault%22%2C%22id%22%3A%22a6c8W000000EesiQAC%22%2C%22sObjectType%22%3A%22Category__c%22%2C%22title%22%3A%22Java%20Agent%22%2C%22titleFormatted%22%3A%22Java%20Agent%22%7D%5D): The best place to engage in troubleshooting questions
 * [New Relic Developer](https://developer.newrelic.com/): Resources for building a custom observability applications
 * [New Relic University](https://learn.newrelic.com/): A range of online training for New Relic users of every level
 * **[For Community Plus repositories]** [New Relic Technical Support](https://support.newrelic.com/) 24/7/365 ticketed support. Read more about our [Technical Support Offerings](https://docs.newrelic.com/docs/licenses/license-information/general-usage-licenses/support-plan). 
