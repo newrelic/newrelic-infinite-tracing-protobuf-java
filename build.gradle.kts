@@ -26,8 +26,8 @@ java {
     withJavadocJar()
 }
 
-val protobufVersion = "3.21.9"
-val grpcVersion = "1.51.0"
+val protobufVersion = "3.25.5"
+val grpcVersion = "1.53.0"
 
 dependencies {
     api("com.google.protobuf:protobuf-java:$protobufVersion")
